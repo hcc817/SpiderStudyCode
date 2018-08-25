@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/3-BasicAjax/jiepai" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-BasicDynamicCrawl/taobaoproduct" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-ProxyPool/ProxyPool-basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-ProxyPool/weixin-plus/weixin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-ProxyPool/weixin-plus" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-ProxyPool/Weixin-master" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
